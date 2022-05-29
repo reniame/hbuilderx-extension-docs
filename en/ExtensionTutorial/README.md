@@ -1,4 +1,4 @@
-Since HBuilderX 2.7+, the plug-in extension mechanism has been opened. 
+Tomo Since HBuilderX 2.7+, the plug-in extension mechanism has been opened. 
 
 Developers can write HBuilderX plug-ins through JavaScript language, customize and enhance HBuilderX, and create a more handy tool.
 
